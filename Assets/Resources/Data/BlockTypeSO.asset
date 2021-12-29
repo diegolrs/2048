@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67241a989187b304eba614915c30d1dc, type: 3}
+  m_Name: BlockTypeSO
+  m_EditorClassIdentifier: 
+  _types:
+  - Value: 0
+    Color: {r: 0.93333334, g: 0.89411765, b: 0.85490197, a: 1}
+    TextColor: {r: 0.46666667, g: 0.43137255, b: 0.39607844, a: 1}
+  - Value: 1
+    Color: {r: 0.9622642, g: 0.8320954, b: 0.748932, a: 1}
+    TextColor: {r: 0.46666667, g: 0.43137255, b: 0.39607844, a: 1}
+  - Value: 2
+    Color: {r: 0.9490196, g: 0.69411767, b: 0.4745098, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 3
+    Color: {r: 0.9716981, g: 0.49541053, b: 0.16958882, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 4
+    Color: {r: 0.9647059, g: 0.4862745, b: 0.3764706, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 5
+    Color: {r: 0.9647059, g: 0.36862746, b: 0.23137255, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 6
+    Color: {r: 1, g: 0.21435642, b: 0.18396229, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 7
+    Color: {r: 0.92941177, g: 0.8, b: 0.38431373, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 8
+    Color: {r: 0.92941177, g: 0.78431374, b: 0.3137255, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 9
+    Color: {r: 0.92941177, g: 0.77254903, b: 0.24705882, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
+  - Value: 10
+    Color: {r: 0.92941177, g: 0.7607843, b: 0.1764706, a: 1}
+    TextColor: {r: 0.9764706, g: 0.9647059, b: 0.9490196, a: 1}
